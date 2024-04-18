@@ -8,7 +8,7 @@ You can find my detailed CV on this website: [My CV](path/to/)
 
 **Connect with me:**
 
-* LinkedIn: [[link to your LinkedIn profile](https://www.linkedin.com/in/aleksei-petukhov-606b4144/)]
+* LinkedIn: [[Aleksei Petukhov](https://www.linkedin.com/in/aleksei-petukhov-606b4144/)]
 
 **Feel free to reach out!**
 
