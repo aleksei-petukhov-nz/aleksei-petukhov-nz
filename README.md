@@ -8,9 +8,8 @@ You can find my detailed CV on this website: [My CV](path/to/)
 
 **Connect with me:**
 
-[LinkedIn](https://www.linkedin.com/in/aleksei-petukhov-606b4144/)
+* [LinkedIn](https://www.linkedin.com/in/aleksei-petukhov-606b4144/)
+* aleksei.petukhov.nz@gmail.com
 
 **Feel free to reach out!**
-
-For any inquiries or collaboration opportunities, you can contact me via email: [aleksei.petukhov.nz@gmail.com]
 
