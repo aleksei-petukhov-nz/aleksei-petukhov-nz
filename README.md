@@ -1,4 +1,4 @@
-## Welcome to my Personal Website!
+## [Welcome to my Personal Website!](https://aleksei-petukhov-nz.github.io/dist/index.html)
 
 Hi there, I'm Aleksei Petukhov, a results-oriented Software Test Engineer with 4+ years of experience in the industry and a strong foundation in computer science. I'm passionate about delivering high-quality software through manual and automation testing across web and mobile applications.
 
