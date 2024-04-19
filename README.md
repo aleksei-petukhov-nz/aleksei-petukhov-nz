@@ -5,7 +5,7 @@ Hi there, I'm Aleksei Petukhov, a results-oriented Software Test Engineer with 4
 **Connect with me:**
 
 * [LinkedIn](https://www.linkedin.com/in/aleksei-petukhov-606b4144/)
-* [Email](emaito:aleksei.petukhov.nz@gmail.com)
+* [Email](<a href="mailto:aleksei.petukhov.nz@gmail.com">aleksei.petukhov.nz@gmail.com</a>)
 
 **Feel free to reach out!**
 
