@@ -127,7 +127,9 @@ body {
   .fa-check {
     color: #ddd; /* Light color for checkmarks */
   }
-  /* Add similar styles for other elements as needed */
+  h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
+    color: #eee;
+  }
 }
 
 hr {
