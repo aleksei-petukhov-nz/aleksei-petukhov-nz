@@ -4,7 +4,7 @@ Hi there, I'm Aleksei Petukhov, a results-oriented Software Test Engineer with 4
 
 **My CV**
 
-You can find my detailed CV on this website: [My CV](path/to/) 
+You can find my detailed CV on this website: [My CV](assets/APETUKHOV.pdf) 
 
 **Connect with me:**
 
