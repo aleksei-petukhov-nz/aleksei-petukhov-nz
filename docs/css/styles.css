@@ -104,6 +104,32 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #222; /* Dark background color */
+    color: #ddd; /* Light text color for better contrast */
+  }
+  .resume-section,
+  .resume-section h2,
+  .resume-section-content {
+    background-color: #333; /* Darker background for sections */
+    color: #eee; /* Light text color for sections */
+  }
+  a {
+    color: #ddd; /* Light color for links */
+  }
+  .subheading {
+    color: #aaa; /* Lighter text color for subheadings */
+  }
+  ul {
+    color: #eee; /* Light text color for lists */
+  }
+  .fa-check {
+    color: #ddd; /* Light color for checkmarks */
+  }
+  /* Add similar styles for other elements as needed */
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;
