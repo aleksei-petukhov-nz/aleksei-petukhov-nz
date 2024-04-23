@@ -310,6 +310,20 @@ svg {
   vertical-align: middle;
 }
 
+.certificate-thumb {
+  width: 100px; /* Adjust width as needed */
+  height: auto;
+  object-fit: cover; /* Maintain aspect ratio */
+  cursor: pointer; /* Show clickable cursor */
+}
+
+.certificate-content {
+  padding: 10px;
+  border: 1px solid #ddd;
+  margin-top: 10px; /* Add spacing after the description */
+  display: none; /* Initially hidden */
+}
+
 table {
   caption-side: bottom;
   border-collapse: collapse;
